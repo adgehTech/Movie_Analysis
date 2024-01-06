@@ -6,12 +6,15 @@ This analysis includes cleaning data, explanation about the data and answering q
 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
-Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. There are some odd characters in the ‘cast’ column. 
+Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. There are some odd characters in the ‘cast’ column.
 
 ### Questions
 
-- Which genres are most popular from year to year?
-- What kinds of properties are associated with movies that have high revenues?
+- How has the average movie runtime changed over the years, and is there a trend?
+- Which genres are most popular from year to year? (Given)
+- Visualize the relationship between movie budgets and revenues across different genres and illustrate how budgets and revenues vary within each genre?
+- What kinds of properties are associated with movies that have high revenues? (Given)
+- What genre will be popular in the future years?
 
 ### Findings
 
@@ -46,7 +49,13 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder 
 ```
 
-## 🌐 Contact me:
+<!-- ## 🌐 Contact me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232696F1.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://belaybirhanu.netlify.app) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belay-birhanu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adgehTech) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/adgehTech) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belay-birhanu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adgehTech) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/adgehTech)  -->
+
+## About me
+| Name           | ID              |
+| -------------- | --------------- |
+| Belay Birhanu  | DBUR/0571/12    |
+
