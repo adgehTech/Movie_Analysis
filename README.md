@@ -22,3 +22,31 @@ Bar charts were used to visually represent the most popular genres for each year
  
 From this analiysis I found arrays of most popular genres from year to year and strong positive correlations between budget, popularity, and revenue were found by conducting more research on assets associated with large revenues.
 
+### Technologies
+
+```python
+# It's a fundamental tool for data preprocessing and exploration.
+import pandas as pd 
+
+# It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these elements.
+# Efficient numerical operations are crucial for data manipulation and scientific computing. 
+import numpy as np
+
+# It provides a wide variety of plots and charts to visualize data and is often used for creating static, interactive, and animated plots. 
+import matplotlib.pyplot as plt
+
+# It is a data visualization library based on Matplotlib, offering additional features and a high-level interface for creating attractive and informative statistical graphics.
+import seaborn as sns
+
+# It provides functionalities for creating and training machine learning models, including tools for evaluating model performance and selecting hyperparameters.
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.ensemble import RandomForestClassifier
+
+# It is used for encoding categorical variables into numerical values, an essential step in preparing data for machine learning models.
+from sklearn.preprocessing import LabelEncoder 
+```
+
+## 🌐 Contact me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232696F1.svg?style=for-the-badge&logo=webflow&logoColor=white)](https://belaybirhanu.netlify.app) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belay-birhanu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adgehTech) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/adgehTech) 
