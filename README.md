@@ -12,6 +12,12 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. There are some odd characters in the ‘cast’ column.
 
+If you need to run this program; create a directory called 'dataset' at root directory then add the following data by downloading it from the given URL below.
+
+- Movie data
+    - <b>URL :</b> https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv
+    - <b>Local URL :</b> dataset/tmdb_movies.csv
+    
 ### Questions
 
 - How has the average movie runtime changed over the years, and is there a trend?
